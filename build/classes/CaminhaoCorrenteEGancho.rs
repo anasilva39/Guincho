@@ -1,0 +1,7 @@
+CaminhaoReboqueIntegrado
+Caminhao
+MiniVan
+Onibus
+Carro
+CaminhaoGuinchoDePlataforma
+CaminhaoCorrenteEGancho
